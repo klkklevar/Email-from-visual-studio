@@ -1,7 +1,5 @@
 # Email-from-visual-studio
 
-# Email-from-visual-studio
-
 **Version 1.0.0**
 
 Code & document samples for Email from visual studio tutorial.
