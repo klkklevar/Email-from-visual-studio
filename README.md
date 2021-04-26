@@ -8,4 +8,4 @@ A sample readme about how to send email from visual studio 2015 using C#.NET.
 
 ## License & copyright
 
-KlkKlevar
+Khalid Klevar
